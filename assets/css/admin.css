@@ -1,0 +1,210 @@
+#woocommerce-product-data ul.wc-tabs li.registration_options a:before {
+    content: '\e032'
+}
+#woocommerce-product-data ul.wc-tabs li.registration-content_options a:before {
+    content: '\e600'
+}
+#woocommerce-product-data ul.wc-tabs li.registration-email_options a:before {
+    content: '\e02d'
+}
+.woocommerce_options_panel .registration_fields table {
+    width: 99%;
+    margin: 5px 0
+}
+.woocommerce_options_panel .registration_fields input[type=text] {
+    width: 95%
+}
+.woocommerce_options_panel .registration_fields input[type=checkbox], .woocommerce_options_panel .registration_fields input[type=radio] {
+    width: auto
+}
+.woocommerce_options_panel .registration_fields select {
+    float: none
+}
+.woocommerce_options_panel .registration_fields .email-options span.tips {
+    display: inline-block;
+    margin: 0 0 10px;
+    padding: 0 10px 0 0
+}
+.woocommerce_options_panel .registration_fields table td .delete, .past-emails td .delete {
+    display: block;
+    text-indent: -9999px;
+    position: relative;
+    height: 1em;
+    width: 1em
+}
+.woocommerce_options_panel .registration_fields table td .delete:before, .past-emails td .delete:before {
+    font-family: WooCommerce;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    content: "\e001";
+    content: "\e013";
+    color: #999
+}
+#registration-info td label {
+    display: inline-block;
+    margin-right: 20px
+}
+#registration-posts small.alignright {
+    width: auto;
+}
+
+#registration-posts h2:first-child, #registration-posts .registration-list-description {
+    display: none;
+}
+.type-event_registration .column-registration .registration-fields {
+    font-style: italic;
+    font-size: 85%
+}
+#wp-registration-content-editor-wrap, #wp-registration-email-editor-wrap {
+    width: 99%!important
+}
+textarea#_registration_email_plain {
+    width: 99%!important;
+    min-height: 200px!important
+}
+#registration-email-advanced-toggle {
+    cursor: pointer
+}
+#registration-email-advanced-options {
+    opacity: .3
+}
+.registration-tools-hr {
+    margin: 30px 0
+}
+.registration-product-select {
+    width: 100%
+}
+.registration-product-field-select {
+    width: 100%
+}
+#registration-barcode p {
+    text-align: center
+}
+#registration-barcode p a {
+    text-decoration: none
+}
+#registration-barcode p img {
+    width: 100%;
+    height: auto
+}
+#registration-barcode p span {
+    font-size: 110%
+}
+#registration-barcode #barcode_container {
+    width: 100%!important;
+    height: auto
+}
+#registration-barcode #barcode_container object {
+    width: 100%
+}
+body.post-type-event_registration .wrap .add-new-h2, body.post-type-event_registration_email .wrap .add-new-h2, body.post-type-event_registration_email #post-body-content {
+    display: none
+}
+body.post-type-event_registration_email #poststuff #post-body.columns-2 {
+    margin-right: 0
+}
+.post-type-event_registration .widefat td, .post-type-event_registration .widefat th {
+    overflow: hidden;
+    color: #555;
+    vertical-align: middle;
+}
+.registration_detail p.title, .registration_detail a.button-primary {
+    display: table-cell;
+    vertical-align: middle;
+    margin: 10px;
+    padding: 0 10px;
+}
+td.registration_detail strong.row-title {
+    display: table-cell;
+    vertical-align: middle;
+}
+.type-event_registration th.check-column {
+    vertical-align: middle;
+}
+small.overflow {
+    width: auto;
+    white-space: nowrap;
+    font-weight: bold;
+    display: block;
+    float: none;
+}
+body.post-type-event_registration table.wp-list-table.widefat.fixed.pages {
+    overflow: scroll;
+    position: relative;
+    max-width: 100%;
+    display: block;
+}
+.post-type-event_registration thead, .post-type-event_registration tfoot, .post-type-event_registration tbody {
+    white-space: nowrap;
+}
+.post-type-event_registration td.number_of_years_dancing.column-number_of_years_dancing {
+    text-align: center;
+}
+.registration_detail p.title {
+    max-width: 200px;
+    text-overflow: ellipsis;
+    position: relative;
+    overflow: hidden;
+}
+#registration-info .panel.woocommerce_options_panel {
+	padding: 20px 0;
+}
+
+#registration-info .panel.woocommerce_options_panel p.form-field > label:first-child {
+    display: table-cell!important;
+    float: none!important;
+    margin: auto !important;
+    padding: 0 20px 30px!important;
+    text-align: right;
+    font-weight: 800;
+    width: 35%;
+    vertical-align: top;
+}
+#registration-info .panel.woocommerce_options_panel p.form-field > label + * {
+    width: 50% !important;
+}
+#registration-info .panel.woocommerce_options_panel p.form-field > label + label {
+    width: 25% !important;
+}
+#registration-info .panel.woocommerce_options_panel p.form-field {
+    display: table-footer-group;
+}
+#registration-info .panel.woocommerce_options_panel p.form-field input[type=checkbox] {
+    display: inline-block;
+    width: auto !important;
+    vertical-align: text-top;
+}
+.chosen-container-multi .chosen-choices li.search-choice {
+    font-size: 15px!important;
+}
+.chosen-container-multi .chosen-choices li.search-field input[type=text] {
+    height: 25px !important;
+    font-size: 15px!important;
+    line-height: 1!important;
+    padding: 0 5px!important;
+}
+
+.chosen-container-multi .chosen-choices {
+    min-height: 30px!important;
+    padding: 2px 3px 0 0px;
+}
+
+tr.status-incomplete {
+    background-color: #FFEBE8;
+    border: 1px solid #CC0000;
+    padding: 3px;
+    font-weight: bold;
+}
+

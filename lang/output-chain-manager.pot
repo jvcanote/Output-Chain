@@ -1,0 +1,33 @@
+# Copyright (C) 2015 WEBDOGS LTD.
+# This file is distributed under the same license as the Output Chain Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Output Chain Manager 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/output-chain-manager\n"
+"POT-Creation-Date: 2015-01-01 11:12:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Output Chain Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://WEBDOGS.COM/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The ultimate way to output product data online."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jacobw Canote"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wEBDOGS.COM/about-us#AgentCodesmith"
+msgstr ""
